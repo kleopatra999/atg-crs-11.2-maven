@@ -106,7 +106,7 @@ There are two special directories, under EStore. They are keystore, and admin. K
 
 The following is a diagram showing how some of the maven directories map to an ATG module’s directory structure.
 
-![directoryMapping](//images/maven-to-atg.jpg?raw=true)
+![directoryMapping](/images/maven-to-atg.jpg?raw=true)
 
 The location that maven moves all the files to is controlled in each submodule pom, by the module.dir.name property.
 
